@@ -60,14 +60,12 @@ public class InicioSesion extends javax.swing.JFrame {
         jLabel4.setText("Formulario LOGIN");
         jLabel4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
-        txfEmail.setText("jTextField1");
         txfEmail.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 txfEmailActionPerformed(evt);
             }
         });
 
-        txfPw.setText("jTextField1");
         txfPw.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 txfPwActionPerformed(evt);

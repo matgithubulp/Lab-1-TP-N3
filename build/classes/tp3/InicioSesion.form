@@ -111,17 +111,11 @@
       </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="txfEmail">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="jTextField1"/>
-      </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txfEmailActionPerformed"/>
       </Events>
     </Component>
     <Component class="javax.swing.JTextField" name="txfPw">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="jTextField1"/>
-      </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txfPwActionPerformed"/>
       </Events>
